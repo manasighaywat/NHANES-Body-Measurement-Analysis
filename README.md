@@ -27,5 +27,5 @@ from the NHANES 2020 dataset using Python.
 
 ## 👩‍💻 Author
 Manasi Ghaywat
-- LinkedIn: [your LinkedIn URL]
-- GitHub: [your GitHub URL]
+- LinkedIn: [http://www.linkedin.com/in/manasi-ghaywat-1b4288199]
+- GitHub: [https://github.com/manasighaywat]
